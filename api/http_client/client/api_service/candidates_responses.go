@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/MinterTeam/minter-go-sdk/v2/api/http_client/models"
+	"github.com/MinterTeam/minter-go-sdk/api/http_client/models"
 )
 
 // CandidatesReader is a Reader for the Candidates structure.
